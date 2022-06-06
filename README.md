@@ -1,3 +1,3 @@
 # frontend
 myfrontendapplication
-New application
+New application.1.2
